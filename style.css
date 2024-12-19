@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2,h3{
+
+text-align: center;
+
+}
+
+.imagemRestaurante{
+
+ width: 1340px;
+
+}
+
+.imagemChefe{
+
+    width: 700px;
+    height: 300px;
+}
+
+.historiaChefe{
+margin: 0px 100px ;
+   display: flex;
+   justify-content:right;
+   
+}
+
+.nomeChef{
+
+text-align: right;
+
+margin: 0px 500px 0px 0px;
+
+}
+
+
+table,th,td{
+
+
+border: 1px solid black;
+
+
+}
+
+table{
+
+width: 1200px;
+height: 100px;
+
+}
+
+.textoContato{
+
+text-align: center;
+
+
+}
+
+button{
+
+    border-radius: 10px;
+  
+}
+
+
+.btn-reserve,.btn-contato{
+
+width: 100px;
+height: 50px;
+
+
+}
+
+.botao{
+
+display: flex;
+justify-content: center;
+gap: 20px;
+}
+
+.tabela{
+
+
+display: flex;
+justify-content: center;
+
+
+}
+
+td{
+
+padding: 20px;
+
+}
+
+.imagemRestaurantePrimeiro,.imagemRestauranteSegundo {
+
+
+display: flex;
+justify-content: center;
+
+gap: 20px;
+
+}
+
+
+.imgsRestaurante{
+
+width:356px;
+height: 330px; ;
+
+border-radius: 300px;
+
+
+}
+
